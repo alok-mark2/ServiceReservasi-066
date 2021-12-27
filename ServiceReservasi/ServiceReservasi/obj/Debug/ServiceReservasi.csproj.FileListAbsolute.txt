@@ -1,7 +1,1 @@
-F:\JIRISAN\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.dll.config
-F:\JIRISAN\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.dll
-F:\JIRISAN\ServiceReservasi\ServiceReservasi\bin\Debug\ServiceReservasi.pdb
-F:\JIRISAN\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.csproj.AssemblyReference.cache
 F:\JIRISAN\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.csproj.CoreCompileInputs.cache
-F:\JIRISAN\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.dll
-F:\JIRISAN\ServiceReservasi\ServiceReservasi\obj\Debug\ServiceReservasi.pdb
